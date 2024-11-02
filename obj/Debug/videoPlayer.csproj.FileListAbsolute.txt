@@ -1,0 +1,20 @@
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\videoPlayer\bin\Debug\videoPlayer.exe.config
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\videoPlayer\bin\Debug\videoPlayer.exe
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\videoPlayer\bin\Debug\videoPlayer.pdb
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\videoPlayer\obj\Debug\videoPlayer.csproj.AssemblyReference.cache
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\videoPlayer\obj\Debug\videoPlayer.Form1.resources
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\videoPlayer\obj\Debug\videoPlayer.Properties.Resources.resources
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\videoPlayer\obj\Debug\videoPlayer.csproj.GenerateResource.cache
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\videoPlayer\obj\Debug\videoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\videoPlayer\obj\Debug\videoPlayer.exe
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\videoPlayer\obj\Debug\videoPlayer.pdb
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\BB Bid\bin\Debug\videoPlayer.exe.config
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\BB Bid\bin\Debug\videoPlayer.exe
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\BB Bid\obj\Debug\videoPlayer.csproj.AssemblyReference.cache
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\BB Bid\obj\Debug\videoPlayer.Form1.resources
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\BB Bid\obj\Debug\videoPlayer.Properties.Resources.resources
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\BB Bid\obj\Debug\videoPlayer.csproj.GenerateResource.cache
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\BB Bid\obj\Debug\videoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\BB Bid\obj\Debug\videoPlayer.exe
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\BB Bid\obj\Debug\videoPlayer.pdb
+C:\Users\deepa\OneDrive\Documents\SEM 3\Rapid Sem 3\BB Bid\bin\Debug\videoPlayer.pdb
