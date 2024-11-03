@@ -36,23 +36,6 @@ namespace videoPlayer
            
         }
 
-
-        // Felipe (Inputs)
-        decimal bullKeyx = 0;
-        decimal bullKeyy = 0;
-        decimal bearkeyx = 0;
-        decimal bearkeyy = 0;
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-            bullKeyx = inp_BullKeyX.Value;
-            bullKeyy = inp_BullKeyY.Value;
-            bearkeyx = inp_BearKeyX.Value;
-            bearkeyy = inp_BearKeyY.Value;
-
-        }
-
-
         // Member 3 - Mo (Vizualizer)
 
 
